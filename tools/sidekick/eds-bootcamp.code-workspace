@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "eds-bootcamp",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

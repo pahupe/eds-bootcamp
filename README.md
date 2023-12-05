@@ -1,14 +1,19 @@
-# Your Project's Title...
-Your project's description...
+# PHU Local Project
+
+Project: EDS-Bootcamp
+Git Branch: bootcamp
+Owner: pahupe
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://bootcamp--eds-bootcamp--pahupe.hlx.page/
+- Live: https://bootcamp--eds-bootcamp--pahupe.hlx.live/
+Format: branch-repo-owner
 
 ## Installation
 
 ```sh
-npm i
+nvm use 18.19.0
+aem --version
 ```
 
 ## Linting
